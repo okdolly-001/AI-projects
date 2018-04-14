@@ -23,8 +23,8 @@
       <file leaf-file-name="pacman.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pacman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+            <state relative-caret-position="780">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="56" selection-end-column="34" />
               <folding>
                 <element signature="e#1979#2009#0" expanded="true" />
               </folding>
@@ -35,7 +35,7 @@
       <file leaf-file-name="searchAgents.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/searchAgents.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
+            <state relative-caret-position="1785">
               <caret line="119" column="18" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="18" />
               <folding>
                 <element signature="e#1354#1381#0" expanded="true" />
@@ -59,8 +59,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="437" />
-    <option name="y" value="168" />
+    <option name="x" value="48" />
+    <option name="y" value="194" />
     <option name="width" value="1213" />
     <option name="height" value="785" />
   </component>
@@ -88,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +100,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,16 +140,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="437" y="168" width="1213" height="785" extended-state="0" />
+    <frame x="48" y="194" width="1213" height="785" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14513423" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32994187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -170,6 +171,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" column="18" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="18" />
+          <folding>
+            <element signature="e#1354#1381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+          <folding>
+            <element signature="e#1979#2009#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -247,7 +275,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/searchAgents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
+        <state relative-caret-position="1785">
           <caret line="119" column="18" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="18" />
           <folding>
             <element signature="e#1354#1381#0" expanded="true" />
@@ -264,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pacman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        <state relative-caret-position="780">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="56" selection-end-column="34" />
           <folding>
             <element signature="e#1979#2009#0" expanded="true" />
           </folding>
