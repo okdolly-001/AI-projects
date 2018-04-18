@@ -369,9 +369,11 @@ class TicTacToe(Game):
         (delta_x, delta_y) = delta_x_y
         x, y = move
         n = 0  # n is number of moves in row
+        print("pre: ", move)
         while board.get((x, y)) == player:
             n += 1
             x, y = x + delta_x, y + delta_y
+        print("pre: ", move)
         x, y = move
         while board.get((x, y)) == player:
             n += 1
