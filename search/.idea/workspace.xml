@@ -13,11 +13,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="search.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="search.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/search.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="478">
-                  <caret line="342" column="54" selection-start-line="342" selection-start-column="54" selection-end-line="342" selection-end-column="54" />
+                <state relative-caret-position="-140">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
                 </state>
               </provider>
             </entry>
@@ -31,11 +31,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="searchAgents.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="searchAgents.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/searchAgents.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="620" column="33" lean-forward="true" selection-start-line="620" selection-start-column="33" selection-end-line="620" selection-end-column="33" />
+                <state relative-caret-position="467">
+                  <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="95" />
                   <folding>
                     <element signature="e#24523#24550#0" expanded="true" />
                   </folding>
@@ -74,8 +74,8 @@
           <file leaf-file-name="pacman.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pacman.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3964">
-                  <caret line="351" column="48" selection-start-line="351" selection-start-column="44" selection-end-line="351" selection-end-column="48" />
+                <state>
+                  <caret selection-end-line="52" selection-end-column="51" />
                 </state>
               </provider>
             </entry>
@@ -104,10 +104,10 @@
       <list>
         <option value="$PROJECT_DIR$/autograder.py" />
         <option value="$PROJECT_DIR$/try.py" />
-        <option value="$PROJECT_DIR$/search.py" />
-        <option value="$PROJECT_DIR$/searchAgents.py" />
         <option value="$PROJECT_DIR$/searchDY.py" />
         <option value="$PROJECT_DIR$/searchAgentsDY.py" />
+        <option value="$PROJECT_DIR$/search.py" />
+        <option value="$PROJECT_DIR$/searchAgents.py" />
       </list>
     </option>
   </component>
@@ -474,16 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/searchAgents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="620" column="33" lean-forward="true" selection-start-line="620" selection-start-column="33" selection-end-line="620" selection-end-column="33" />
-          <folding>
-            <element signature="e#24523#24550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchAgentsDY.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -496,15 +486,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pacman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3964">
-          <caret line="351" column="48" selection-start-line="351" selection-start-column="44" selection-end-line="351" selection-end-column="48" />
+        <state>
+          <caret selection-end-line="52" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="342" column="54" selection-start-line="342" selection-start-column="54" selection-end-line="342" selection-end-column="54" />
+        <state relative-caret-position="-140">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="95" />
+          <folding>
+            <element signature="e#24523#24550#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
